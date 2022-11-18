@@ -1,0 +1,1 @@
+print("Thank you, everyone. That was a great magic show!")

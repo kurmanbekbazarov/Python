@@ -1,0 +1,6 @@
+I learned about:
+    functions
+    classes
+    lists
+    tuples
+    dictionaries
